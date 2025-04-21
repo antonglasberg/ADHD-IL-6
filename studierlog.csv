@@ -1,0 +1,17 @@
+StudyNumber,Studies,Group,n_adhd,meanIL6_adhd,sdIL6_adhd,n_control ,meanIL6_control,sdIL6_control,Age_ADHD_mean ,Age_ADHD_SD,AgeHealthymean,Age_Healthy_SD,BMI_ADHD,BMI_ADHD_SD,BMI_HEALTHY,BMI_HEALTHY_SD,ADHDprocentmales,Healthyprocentmales,NOS,Medication,Övrig info,,tid på dygnet,symtom,Land
+1,Chang et al. (2020),1,78,5.4042294447219,0.602839103450847,20,3.7935960006132,0.970767040976016,9.40 ,3.08,9.19,2.96,NA,NA,NA,NA,87.1,71.4,5,No (6 month),,,8-10,gjordes inte,Taiwan
+2,Chang et al. (2022),1,74,0.701306991869495,0.219549770706644,49,1.24898159205575,0.321840319493928,8.9,2.3,10.1,2.6,NA,NA,NA,NA,81.1,49.0,4,"no, naive",,,8,såg inget samband,Taiwan
+3,Corominas-Roso et al. (2017),1,108,-0.181561046676298,0.895870057838816,27,-0.129966537174759,0.925838592482376,35.46,9.43,32,8.6,24.57,5.54,"24.86
+",4.82,59.26,52,6,"no, naive",ADHD gruppen är ihopräknad.,,8-10,såg inget samband,Spain
+4,Darwish et al. (2019),1,60,2.97131716202517,0.520594197114035,60,1.60349649524663,0.42492956033022,8.4,1.28,8.73,1.89,NA,NA,NA,NA,83.3,68.3,4,"no, naive",,,9,såg inget samband,Egypt
+5,Dursun et al. (2021),1,60,3.82654996947391,0.986843576930877,20,4.11248588801578,0.957175901496367,9.39,2.8,9.39,2.8,16.7,3.5,18.5,3.5,85,80,4,No (6 month),,,8-9,såg inget samband,Turkey
+6,Elsadek et al. (2020),1,80,3.17869930953707,0.408947608316677,80,1.75361026053467,0.389271299390778,8.7 ,2.3,8.2  ,2.7,NA,NA,NA,NA,68.75,63.75,4,nämndes inte (yes??),"tittade på correlation mellan IL-6 och symtom, såg inget samband",,8,såg inget samband,Egypt & Saudi arabia
+7,Ferencova et al. (2023),1,20,0.18946167704386,0.0802828348483235,20,-0.681401170345758,0.12693791460389,13.4,1.8,13.2,1.9,19.9,2.6,19.5,2.5,75,75,4,"no, naive","Formula 5 för medelvärde, range delat på 4 för SD",,"nämdes inte, fastande",gjordes inte,Slovakia
+8,Koc et al. (2023),1,30,4.35637119675323,0.394394199203675,30,4.05509296207258,0.178790230215006,11.06,NA,11.06,NA,NA,NA,NA,NA,50,50,4,nämndes inte (yes??),Median och range delat på 4,,nämdes inte,gjordes inte,Turkey
+9,Leffa et al (2021) when 18,1,77,0.33,0.63,2504,0.24,0.64,18,0,18,0,NA,NA,NA,NA,49.8,46.3,8,nämndes inte (yes??),,,non-fastning,gjordes inte,Brazil
+9,Leffa et al (2021) when 22,2,92,0.34,0.77,2556,0.24,0.66,22,0,22,0,NA,NA,NA,NA,49.8,46.3,8,nämndes inte (yes??),,,Non-fastning,gjordes inte,Brazil
+10,Mahmoud et al. (2020),1,20,3.00696228238377,0.535975189222658,20,1.92883334361769,0.436714377669588,8.4,2.28,9.0 ,1.84,NA,NA,NA,NA,85,65,4,"no, naive",,,same day,såg inget samband,Egypt
+11,Oades et al. (2010),1,34,-0.228386831092977,0.609466842066819,27,-0.238768271496493,0.584069796830286,8.84,1.4,11.0,1.5,16.5,2.4,17.9,3.1,66.66,95.23,5,mix,,,8-9,såg inget samband,Germany
+12,Puzino et al. (2021),1,51,-0.0805417858040331,0.593046314562966,182,-0.363660950151987,0.958093033015387,15.8,2.0,16.1,2.2,NA,NA,NA,NA,66.7,39.9,5,mix men går inte att dela upp,översätter SEM till SD enligt Cochrane formula,,7 / morning,gjordes inte,USA
+13,Verlaet et al. (2021),1,57,1.8959497827266,0.0551387508666512,69,1.89487567519188,0.0720312218179079,8.98 ,1.75,8.37 ,1.69,NA,NA,NA,NA,71.92,65.21,4,untreadet,,,nämdes inte,såg inget samband,Belgium
+14,Wang et al. (2022),1,41,1.29733426682987,0.500326179514881,39,2.12594771431432,0.553762223000586,8.0,1.75,10,2.7,17.5,4.2,17.8,4.3,73.2,56.4,5,"no, naive",,,7-8,såg inget samband,Taiwan

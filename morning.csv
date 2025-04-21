@@ -1,0 +1,12 @@
+StudyNumber,Studies,Group,n_adhd,meanIL6_adhd,sdIL6_adhd,n_control,meanIL6_control,sdIL6_control,Age_ADHD_mean,Age_ADHD_SD,AgeHealthymean,Age_Healthy_SD,BMI_ADHD,BMI_ADHD_SD,BMI_HEALTHY,BMI_HEALTHY_SD,ADHDprocentmales,Healthyprocentmales,NOS,,,,,
+1,Chang et al. (2020),1,78,266.65,176.52,20,71.15, 89.04,9.40,3.08,9.19,2.96,NA,NA,NA,NA,87.1,71.4,5,,,,,
+2,Chang et al. (2022),1,74,2.0655737704918,0.45901639344,49,3.67213114754098,1.2131147541,8.9,2.3,10.1,2.6,NA,NA,NA,NA,81.1,49.0,4,,,,,
+3,Corominas-Roso et al. (2017),1,108,1.245741,1.382322,27,1.348,1.57,35.46,9.43,32,8.6,24.57,5.54,"24.86
+",4.82,59.26,52,6,,,,,
+4,Darwish et al. (2019),1,60,22.35,12.47,60,5.44,2.42,8.4,1.28,8.73,1.89,NA,NA,NA,NA,83.3,68.3,4,,,,,
+5,Dursun et al. (2021),1,60,74.7,95.9,20,96.6,118.3,9.39,2.8,9.39,2.8,16.7,3.5,18.5,3.5,85,80,4,,,,,
+6,Elsadek et al. (2020),1,80,26.11,11.14 ,80,6.23,2.52,8.7 ,2.3,8.2  ,2.7,NA,NA,NA,NA,68.75,63.75,4,nämndes inte (yes??),"tittade på correlation mellan IL-6 och symtom, såg inget samband",,8,såg inget samband
+7,Ferencova et al. (2023),1,20,1.2125,0.0975,20,0.51,0.065,13.4,1.8,13.2,1.9,19.9,2.6,19.5,2.5,75,75,4,"no, naive","Formula 5 för medelvärde, range delat på 4 för SD",,"nämdes inte, fastande",gjordes inte
+8,Oades et al. (2010) unmedicated,1,20,1.02,0.64,20,0.89,0.60,8.84,1.4,11.0,1.5,16.5,2.4,17.9,3.1,66.66,95.23,5,,,,,
+9,Puzino et al. (2021),1,51,1.1,0.71414284285429,182,1.1,1.3490737563232,15.8,2.0,16.1,2.2,NA,NA,NA,NA,66.7,39.9,5,,,,,
+10,Wang et al. (2022),1,41,4.14746543778802,2.21198156682,39,9.76958525345622,5.85253456221,8.0,1.75,10,2.7,17.5,4.2,17.8,4.3,73.2,56.4,5,,,,,
